@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415380441530",
+    "firebase_url": "https://harvest-pro-1459a-default-rtdb.firebaseio.com",
+    "project_id": "harvest-pro-1459a",
+    "storage_bucket": "harvest-pro-1459a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415380441530:android:d80a41d919b9f3f6203583",
+        "android_client_info": {
+          "package_name": "com.example.harvest_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415380441530-0bjl1v89u22k6uuonqb16rmhgu5h2q26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_UwPKPPjBnkUR-ZLOJzhvrtcQuFPl_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415380441530-0bjl1v89u22k6uuonqb16rmhgu5h2q26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
