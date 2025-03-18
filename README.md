@@ -203,7 +203,7 @@ if any error comes, open Android studio, go to File->settings, drop down Appeare
 
 Run this command:
 
-    git clone https://github.com/SilverlineIT/Harvest-Pro-Mobile.git
+    git clone https://github.com/navodi0912/Mobile-Application-for-Enhance-Sustainable-Tea_Farming_in_SriLanka_Research_Project.git
 
 ---
 
